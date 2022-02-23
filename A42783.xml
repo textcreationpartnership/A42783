@@ -1,0 +1,1215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The further vindication, &amp;c. of Mr. Owen consider'd in a letter to a friend</title>
+            <author>Gipps, Thomas, d. 1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42783</idno>
+            <idno type="STC">Wing G779A</idno>
+            <idno type="STC">ESTC R213345</idno>
+            <idno type="EEBO-CITATION">99834737</idno>
+            <idno type="PROQUEST">99834737</idno>
+            <idno type="VID">39246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1793:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The further vindication, &amp;c. of Mr. Owen consider'd in a letter to a friend</title>
+                  <author>Gipps, Thomas, d. 1709.</author>
+               </titleStmt>
+               <extent>27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Gipps.</note>
+                  <note>Caption title; imprint from Wing.</note>
+                  <note>A reply to Owen, James.  A further vindication of the dissenters from the Rector of Bury's unjust accusations.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, James, 1654-1706. --  Further vindication of the dissenters from the Rector of Bury's unjust accusations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:39246:1"/>
+            <pb n="1" facs="tcp:39246:1"/>
+            <head>THE
+Further Vindication, &amp;c.
+OF
+Mr. Owen
+Conſider'd in a LETTER to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Obedience to your Commands, I ſend you here a
+ſhort Account of my Thoughts concerning Mr. <hi>O</hi>'s
+<hi>Further Vindication,</hi> &amp;c. In the way of Writing he
+has taken up, he is not (I believe) to be parallel'd,
+having out-done all Men living a Bar and half, except
+haply two or three of the United Brethren, who have
+ſufficiently expos'd Mr. <hi>Baxter</hi> and Father <hi>Alſop.</hi> I ſhall
+not ſo much as endeavour to requite him,<note place="margin">Prov. 26. 4. <hi>R. R.</hi>
+               </note> being oblig'd
+to the contrary, and having already engag'd my ſelf there<g ref="char:EOLhyphen"/>to
+by Promiſe, which I will religiouſly obſerve. For which
+Reaſon you muſt not expect here a particular Anſwer, or
+that I ſhould follow him ſtep by ſtep: <hi>My</hi> Work then as
+well as <hi>Yours</hi> would be endleſs, and it would be difficult
+for me not to retort ſome of his ill Language, and diſco<g ref="char:EOLhyphen"/>ver
+many of his Miſrepreſentations or Miſtakes, which he
+is not capable of enduring, nor you willing to be troubl'd
+with. All my Deſign, and I ſuppoſe your expectation is,
+<pb n="2" facs="tcp:39246:2" rendition="simple:additions"/>
+that the whole Argument be laid plain and open unto the
+view of any one of common Senſe. This I propoſe to my
+ſelf to do in the Order of the Sermon, and as briefly as
+I can.</p>
+            <p>And firſt you muſt remember, that Mr. <hi>De Laune</hi> ſe<g ref="char:EOLhyphen"/>verely
+tax'd the Church of <hi>England</hi> as guilty of diminiſh<g ref="char:EOLhyphen"/>ing
+from the Word of God, by leaving out the <hi>Titles</hi> of
+the Pſalms in our Liturgy Tranſlation; and that I under<g ref="char:EOLhyphen"/>took
+the defence of this Omiſſion, firſt from the uncertain<g ref="char:EOLhyphen"/>ty
+of the <hi>Titles</hi> being Canonical. Now I ſubmit it to your
+Judgment or any obſervant Reader's weighing the Argu<g ref="char:EOLhyphen"/>ments
+on both ſides, as they are to be found in <hi>Rem.</hi> and
+in <hi>R's</hi> on <hi>R's,</hi> whether Mr. <hi>O.</hi> (who is Mr. <hi>D</hi>'s Vindicator)
+has given a convincing Proof of the <hi>Certainty</hi> of the <hi>Titles</hi>
+being Canonical: I ſay, this is ſubmitted to your Judgment
+without more ado. This notwithſtanding I ſhall here have
+occaſion to repeat ſome things, and obſerve others <hi>de novo,</hi>
+which will miniſter ſome further ſatisfaction in this contro<g ref="char:EOLhyphen"/>verted
+Point.</p>
+            <p>Mr. <hi>O.</hi>
+               <note place="margin">Vind. p.</note> has not ſtuck to pronounce me <hi>a Blaſphemer,</hi> and
+to give me words of <hi>Braſs,</hi> becauſe I affirm'd, <hi>many of the
+Titles were to no purpoſe at all;</hi> nay, he will not allow that
+my ſuppos'd Ignorance can make any Attonement for me,
+tho' <hi>God himſelf winked at the times of Ignorance.</hi> But let us
+look back unto the Rector's obvious meaning. Mr. <hi>D.</hi> con<g ref="char:EOLhyphen"/>tended
+that the <hi>Titles</hi> unfolded the Myſteries of the Pſalms;
+the Rector deny'd that they ſerve to any ſuch purpoſe at
+all.<note place="margin">
+                  <hi>R. R.</hi> p. 15.</note> 
+               <hi>Ex. gr. A Pſalm, a Song,</hi> &amp;c. Theſe <hi>Titles</hi> unlock
+no Myſteries that I know of, and if they muſt needs be
+call'd Keys they want Wards. Other <hi>Titles</hi> are infinitely
+more Myſterious than the Pſalms themſelves. It cannot
+be thought the Holy Ghoſt meant to give us them as Keys
+to open the ſecret Senſe of the Pſalms; that would be to
+explain <hi>obſcurum per obſcurius,</hi> which I am perſwaded the
+Spirit of God would never have done. When Jeſus Chriſt
+expounded his Parables, he made 'em clear as the Sun.
+Beſides, whereas the Myſteries of the Goſpel are confirm'd
+out of an abundance of Paſſages in the Pſalms, I do not
+find one <hi>Title</hi> brought to prove any one Myſtery, tho' in<g ref="char:EOLhyphen"/>deed
+ſome Fathers (who delighted, <hi>Ludere campo Scriptu<g ref="char:EOLhyphen"/>rarum,</hi>
+               <pb n="3" facs="tcp:39246:2"/>
+as <hi>Jerom</hi> ſpeaks) took a liberty to find out I know
+not what Myſteries in the <hi>Titles.</hi>
+            </p>
+            <p>But to return,<note place="margin">
+                  <hi>R. R.</hi> p. 13.</note> I pleaded formerly that the <hi>Chaldee</hi> Para<g ref="char:EOLhyphen"/>phraſe,
+the <hi>Syriack, Arabick,</hi> and the <hi>LXX</hi> Verſion gene<g ref="char:EOLhyphen"/>rally
+us'd by the Helleniſtical Jews, and the Chriſtians for
+ſeveral Ages differ much from the <hi>Hebrew;</hi> that <hi>Gregory
+Nyſſen</hi> obſerv'd there was not an intire Agreement between
+the Chriſtians and the Jews about the <hi>Titles,</hi> eſpecially of
+<hi>Pſal.</hi> 2, 3, 4, 5, 6, 8, &amp;c. That this Father aſſerts not the
+Divine Authority of the <hi>Titles</hi> but Eccleſiaſtical Cuſtom.
+By the way note, that Mr. <hi>O.</hi> has declin'd giving any ſort
+of Anſwer to this Teſtimony of <hi>Nyſſen.</hi>
+               <note place="margin">Synop. Crit.</note> I add, <hi>Grotius</hi> be<g ref="char:EOLhyphen"/>liev'd
+<hi>Moſes</hi> was not the Pen man of the <hi>90th.</hi> Pſal. <hi>Eben
+Ezra</hi> affirms the <hi>6th. Pſal.</hi> was compos'd (not by <hi>David,</hi>
+as the <hi>Title</hi> has it, but) in the Captivity by ſome other
+Perſon. Doth it not follow hence, that according to the
+judgment of theſe Churches, and theſe Authors, the <hi>Titles</hi>
+are not Canonical, at leaſt not certainly ſo? And are <hi>they</hi>
+to be all damn'd for ſo many Blaſphemers? It might have
+ſuffic'd Mr. <hi>O.</hi> to have let alone the charge of <hi>Blaſphemy</hi>
+(which I fancy is a little too much) and to have contented
+himſelf with ranking me among Dunces, tho' at the ſame
+time you ſee I have ſome not contemptible Company.</p>
+            <p>I do not know any better way to clear this Matter than
+by conſidering the <hi>Titles</hi> of the ſeveral Books of Scripture,
+ſome whereof are moſt certainly not Canonical, not one of
+a certainty ſuch, and ſome doubtful. The firſt Section of
+<hi>Moſes</hi>'s Pentateuch is in Hebrew call'd <hi>Bereſith,</hi> but in the
+LXX, <hi>Geneſis,</hi> and in our Engliſh Tranſlation, <hi>The firſt Book
+of Moſes called Geneſis:</hi> Are we, Diſſenters and all, yea and
+all Chriſtendom Blaſphemers for departing from the <hi>He<g ref="char:EOLhyphen"/>brew?</hi>
+The truth is, I do not believe the Author of the Pen<g ref="char:EOLhyphen"/>tateuch
+divided his Work into Five Sections or Books; but
+the Church of the Jews, who for convenience intituled each
+Section from the firſt word of it, tho' the LXX more judi<g ref="char:EOLhyphen"/>ciouſly
+from the principal deſign and matter contain'd in
+thoſe Sections. I prefer the <hi>Title</hi> of the LXX to that of
+the <hi>Heb.</hi> in the Hiſtorical part of the Kings. In <hi>Heb.</hi> we
+find <hi>the Firſt and Second Book of Samuel,</hi> in the LXX more
+properly and truly call'd <hi>the Firſt and Second Book of Kings.
+<pb n="4" facs="tcp:39246:3" rendition="simple:additions"/>
+Samuel</hi> died, <hi>1. Sam.</hi> 25. The reſt of this and the next Book
+was not (neither could be) written by <hi>Samuel,</hi> nor con<g ref="char:EOLhyphen"/>cerning
+him, but the Kings of <hi>Iſrael</hi> (and <hi>Samuel</hi> himſelf
+is I conceive comprehended in <hi>Kings)</hi> being the Supreme
+Judge;) The <hi>Heb.</hi> divides the Pſalter into Five Sections.
+Are we, and the Diſſenters all <hi>Blaſphemers</hi> for leaving this
+Diviſion out of our Tranſlation? If it be anſwer'd, that
+ſome <hi>Heb.</hi> Copies have not theſe Five Sections or Books of
+the Pſalter (which I know not, nor will trouble my ſelf to
+examin) I ask which are the true and uncorrupted Copies?
+(for both cannot be) and why do we follow the latter Co<g ref="char:EOLhyphen"/>pies
+rather than thoſe which are <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in all Men's hands?
+The Books of the Prophets are thus, intitul'd, <hi>The Book of
+the Prophet Iſaiah,</hi> &amp;c. and the Apoſtles Epiſtles thus, <hi>The
+Epiſtle of Paul to the Romans,</hi> &amp;c. I cannot think the in<g ref="char:EOLhyphen"/>ſpir'd
+Prophets and Apoſtles ſet theſe <hi>Titles</hi> on the head of
+their Books or Letters. For they prefixt their Names them<g ref="char:EOLhyphen"/>ſelves
+at the beginning and as part of the Body of thoſe
+Books and Letters, but the <hi>Titles</hi> on the top were added
+for conveniency. There needed no Inſpiration to do this.
+The general <hi>Title</hi> of <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Books of the New Teſtament
+is<g ref="char:punc">▪</g> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> but is not Canonical, ſay <hi>Grotius</hi> and
+<hi>Hammond</hi> (and yet they Comment upon it) being added
+by the Church, when the Inſpir'd Books were put together.
+That <hi>Title, The Epiſtle of Paul the Apoſtle to the Hebrews,</hi> is
+found in all MSS. Copies (ſays <hi>Beza)</hi> except one only,
+which I hope will break no ſquares. Now <hi>Grotius</hi> is of
+Opinion <hi>Luke</hi> wrote this Epiſtle, others <hi>Barnabas,</hi> ſome
+<hi>Clemens Romanus,</hi> Dr. <hi>Hammond</hi> that the Author is uncer<g ref="char:EOLhyphen"/>tain,
+this being the very Reaſon many Churches receiv'd
+not this Epiſtle into the Canon of a good while. I muſt not
+paſs the particular Reaſon which the <hi>Latin</hi> Churches gave
+for their rejecting this Epiſtle to the <hi>Heb. ſc.</hi> becauſe <hi>ſome
+things were in it favouring the Novatian Hereſie,</hi> as they then
+judg'd. Mr. <hi>Pool</hi> imputes this to their <hi>Ignorance,</hi> but chal<g ref="char:EOLhyphen"/>lenges
+them not with <hi>Blaſphemy:</hi> nor did I ever hear that
+<hi>Grotius, Hammond,</hi> and the reſt who deny <hi>Paul</hi> to be the
+Author of this Epiſtle, were ever cenſur'd as <hi>Blaſphemers.</hi>
+            </p>
+            <p>St. <hi>John</hi> doubtleſs was the Author of thoſe three Epiſtles
+that go under his Name, but not of the <hi>Titles</hi> alſo. This
+<pb n="5" facs="tcp:39246:3"/>
+Apoſtle and Evangeliſt for ſome ſpecial Reaſons conceal'd
+his Name, when he wrote contrary to the practice of the
+reſt. Nor can I believe any other inſpir'd Perſon affixt
+thoſe <hi>Titles,</hi> it being highly improbable, that <hi>John</hi> by the
+Spirit ſhould conceal himſelf, and another by the ſame Spi<g ref="char:EOLhyphen"/>rit
+ſhould diſcover him. I hope Mr. <hi>O.</hi> will not call me <hi>Blaſ<g ref="char:EOLhyphen"/>phemer</hi>
+for this. The meaning of all is, the Church of God
+did ever take the Liberty of giving <hi>Titles</hi> unto Books ſome<g ref="char:EOLhyphen"/>tines
+by Conjecture, and ſometimes of certain knowledge,
+as we at this day prefix the Contents before Chapters, and
+call the Books of Pſalms in Metre, <hi>The Pſalms of David,</hi>
+which is not the <hi>Hebrew Title,</hi> Or elſe the Copiers of them
+did it for obvious Reaſons. <hi>viz.</hi> that holy Men might more
+readily upon occaſion go to ſuch Books, and conſult 'em,
+as they lay in their Cloſets or Libraries among other Vo<g ref="char:EOLhyphen"/>lumes
+of the Scripture. Briefly the <hi>Titles</hi> of the Pſalms and
+of the ſeveral Books of Scripture muſt (as I conceive) run
+the ſame fate; all muſt be of a certainty Canonical or none
+at all can be.</p>
+            <p>Mr. <hi>O.</hi> has himſelf confeſt enough to overthrow the
+whole Fabrick of his elaborate Diſcourſe on this Subject.
+He acknowledges,<note place="margin">Vind. p. 47.</note> 
+               <hi>It was a prevailing Opinion, that all the
+Pſalms were Penn'd by</hi> David, <hi>that</hi> Auguſt, Chryſoſt. <hi>and</hi> Bede,
+<hi>and ſeveral Jewiſh Doctors thought ſo.</hi> What then will be<g ref="char:EOLhyphen"/>come
+of the <hi>Title</hi> of the <hi>90th.</hi> and of many other Pſalms?
+Were they of a certainty of their Penning, unto whom they
+are aſcrib'd in the <hi>Hebrew</hi> Text? Or is the Rector <hi>ſingular
+in a doubtful Point,</hi> when he has ſo many giving in their Te<g ref="char:EOLhyphen"/>ſtimony
+on his ſide? Tho' by the way I ſee no great harm in
+being <hi>ſingular,</hi> when the Point is <hi>doubtful,</hi> but much more
+I apprehend not that there is any <hi>Blaſphemy</hi> in ſuch <hi>Singu<g ref="char:EOLhyphen"/>larity.</hi>
+Beſides I pray Sir take notice, how Mr. <hi>O.</hi> expreſ<g ref="char:EOLhyphen"/>ſeth
+himſelf concerning the <hi>Title</hi> of the 137. Pſal. <hi>It is
+not material to us, who compos'd it, we are ſatisfied it was di<g ref="char:EOLhyphen"/>vinely
+inspir'd.</hi> But is it not as material that one <hi>Pſalm</hi>
+ſhould have a <hi>Title</hi> to unſold its Myſteries as another? And
+why will not he give me leave to declare my ſelf thus? <hi>It is
+not material to me what becomes of the</hi> Titles, <hi>I am ſatisfy'd
+the Pſalms themſelves were d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vinely Inſpir'd. I make no recko<g ref="char:EOLhyphen"/>ning
+of thoſe Critical Diſputes about the 90th. Pſal. whether</hi>
+               <pb n="6" facs="tcp:39246:4"/>
+Moſes, <hi>or</hi> David, <hi>or any other Inſpir'd Perſon penn'd that
+Pſalm, I am content to believe it Canonical.</hi> Great then is
+the power of Truth you ſee: It will out ſometimes even
+before a Man is aware.</p>
+            <p>But after all this, I will now ſuppoſe (what I believe you
+will not grant) that Mr. <hi>O.</hi> has clear'd his Point beyond
+contradiction, yet ſtill I muſt condemn Mr. <hi>D.</hi> (and his
+Vindicator too) for reflecting on <hi>us,</hi> becauſe we leave out
+an eſſential part of the <hi>Pſalms</hi> in our Liturgy Tranſlation.
+I argu'd formerly,<note place="margin">
+                  <hi>Ser.</hi> p. 4. <hi>R. R.</hi> p. 15.</note> 
+               <hi>The Diſſenters tranſlate 'em not all;</hi> 
+               <q>ſome
+part of 'em Tranſlated is thruſt out of the Text into the
+Margin, like a various Reading, or mere conjecture, or
+as not material;</q> but to this he offers nothing. I added,
+<hi>They leave 'em out of the Metrical Pſalms, neither do they ſing
+'em.</hi> But he endeavours to take off this Retort thus, <hi>The</hi>
+Titles <hi>were not deſign'd to be ſung.</hi>
+               <note place="margin">
+                  <hi>V.</hi> p. 53.</note> Good! 'Tis my very Plea
+in Defence of the Church of <hi>England,</hi> our Liturgy Tran<g ref="char:EOLhyphen"/>ſlation
+was deſign'd for ſinging, but the <hi>Titles</hi> were not.
+No, ſays Mr. <hi>O. You read that Tranſlation.</hi> I anſwer, 1. Some
+negligent Miniſters do indeed read 'em; 'tis their Fault,
+2. Some conforming Nonconformiſts will read 'em; 'tis
+their Crime, 3. Some cannot prevail with their People to
+bear a part in the rehearſing 'em; 'tis their Unhappineſs.
+But ſtill this Tranſlation is deſign'd not for Reading and In<g ref="char:EOLhyphen"/>ſtruction
+in the Publick Worſhip, but Devotion. For the
+Order of the Church is that the <hi>Pſalms</hi> in this Tranſlation
+ſhould be <hi>ſaid or ſung;</hi> ſaid? that is at leaſt repeated <hi>al<g ref="char:EOLhyphen"/>ternatim,</hi>
+by Miniſter and People, which is a ſpecies of
+ſinging, as we believe. Obſerve then, they are ſung in all
+Cathedrals, they are repeated in multitudes of Parochial
+Churches, and Noblemens Chappels. What would the
+Man have more? Shall the Infelicity of ſome Miniſters, the
+Treachery of others, or the Careleſsneſs of another ſort be
+thought ſufficient to force the Church to take new mea<g ref="char:EOLhyphen"/>ſures,
+and lay aſide her Liturgy Tranſlation? I trow not.
+Beſides you ſhould obſerve further, that if the <hi>Titles</hi> be Ca<g ref="char:EOLhyphen"/>nonical,
+they ought at leaſt to have been <hi>Printed</hi> with the
+Metrical <hi>Pſalms,</hi> tho' not ſung: So the Jews did. Briefly
+here's nothing but Cavil, not a ſhadow of Anſwer. But
+Mr. <hi>O.</hi> concludes, <hi>Their</hi> (the Diſſenters) <hi>not reading the</hi>
+               <pb n="7" facs="tcp:39246:4"/>
+Titles (in the Congregation and out of the other Tranſla<g ref="char:EOLhyphen"/>tion)
+<hi>is an Innocent Omiſſion.</hi> Hem! an Innocent Omiſ<g ref="char:EOLhyphen"/>ſion?
+Verily I cannot get this down. If the <hi>Titles</hi> be an
+Eſſential part of the <hi>Pſalms,</hi> and uſeful to unfold the Myſte<g ref="char:EOLhyphen"/>ries
+in them, as Mr. <hi>O.</hi> &amp; Mr. <hi>D.</hi> will have it, can there
+be a more Sacrilegious Omiſſion than firſt not to Tranſlate
+the <hi>Titles</hi> exactly, and then neglect the Reading them?
+Not to make uſe of the Canonical Key, but to burſt vio<g ref="char:EOLhyphen"/>lently
+and blindly into the Chambers of Divine Secrets,
+like Thieves and Robbers? Beſides a little Juſtice would
+have taught Mr. <hi>O.</hi> that our <hi>not Printing</hi> the <hi>Titles</hi> is as in<g ref="char:EOLhyphen"/>nocent
+an Omiſſion, as their <hi>not Reading</hi> 'em. One might
+reaſonably expect juſt Weights and Meaſures. Either let
+the whole body of Chriſtians throughout the World come
+under the Charge of being Corrupters of the <hi>Pſalms,</hi> or
+let the Church of <hi>England</hi> and the Rector paſs in the Croud
+as Innocent alſo. Why ſhould we be made an Example,
+when even our Accuſers themſelves are guilty of the ſame
+Omiſſion? I leave you then to judge how well Mr. <hi>O.</hi> has
+acquitted himſelf on this firſt Queſtion.</p>
+            <p>The next is about the Verſes interpolated <hi>Pſal.</hi> 14. I re<g ref="char:EOLhyphen"/>mit
+you to what I have in Sermon and <hi>R. R.</hi> offer'd on this
+Argument, and to inform your ſelf thence whether Mr. <hi>D.</hi>
+did honeſtly impute it unto <hi>us,</hi> that <hi>we</hi> foiſted them in, and
+whether Mr. <hi>O.</hi> has thoroughly juſtify'd him. But I'll in a
+few words conſider Mr. <hi>O.</hi>'s Vindication of <hi>Jerom,</hi> whom
+he would ſain lick clean, if it were poſſible. He informs us,
+who they are that have commended him, and it's confeſt
+he was a great Man, but perhaps his trueſt Character is,
+<hi>Magnae virtutes, nec minora</hi>—In the Point about Bi<g ref="char:EOLhyphen"/>ſhops
+it has been often enough laid to his charge, that he
+ſays and unſays, and contradicts himſelf. In the Letters
+which he exchang'd with St. <hi>Auſtin,</hi> he maintain'd the law<g ref="char:EOLhyphen"/>fulneſs
+of Diſſimulation, and endeavour'd to excuſe <hi>Peter</hi>
+and <hi>Barnabas.</hi> He is believed to have been diſguſted for nor
+being made a Biſhop, and on that ſcore depreſſed the Order
+as low as he could with any colour of Truth. Nor did he
+eſcape the ſuſpicion of—Beſides, he was ſo
+bent againſt the <hi>LXX.</hi> that he bluſht not to abuſe 'em,
+chuſing to repreſent 'em by ſome corrupt Copies, rather
+<pb n="8" facs="tcp:39246:5"/>
+than by the known and unqueſtionable reading. I will give
+you two Inſtances. <hi>Zach.</hi> 12. 10. cited by St. John 19. 37.
+<hi>They ſhall look on him whom they pierced,</hi> Jerom's <hi>LXX</hi> it
+ſeems read not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, even as our <hi>LXX</hi>
+doth at this day. But <hi>Jerom</hi> might (if he would have been
+ingenuous) have taken notice of what he could not be ig<g ref="char:EOLhyphen"/>norant,
+that the right reading in the <hi>LXX</hi> was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+as is witneſſed by four Fathers more early than himſelf.
+<hi>Juſtin M.</hi> in his Dialogue againſt <hi>Trypho</hi> the Jew. <hi>Tertul<g ref="char:EOLhyphen"/>lian</hi>
+likewiſe frequently.<note place="margin">De Reſur<g ref="char:EOLhyphen"/>rect. c. 26, 51. De car<g ref="char:EOLhyphen"/>ne Chriſti c. 24.</note> St. <hi>Cyprian</hi> in his 20 Teſtimony
+againſt thoſe People. To whom add <hi>Lactantius</hi> alſo, <hi>Zach.
+13.</hi> 4. He makes the <hi>LXX</hi> ſpeak perfect Nonſenſe, <hi>non
+ſum Prophetes ego, quia Homo genuit me à Juventute meâ.</hi>
+Whereas even in our preſent <hi>LXX</hi> we read thus agreeably
+with the <hi>Heb.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+Finally
+I obſerv'd in <hi>R. R.</hi> how ſcandalouſly he abus'd St. <hi>Luke.</hi> No,
+replies Mr. <hi>O.</hi> For as <hi>Paul</hi> is call'd a <hi>Babler</hi> by the <hi>Atheni<g ref="char:EOLhyphen"/>ans,</hi>
+ſo was <hi>Luke</hi> accounted by the Nations an <hi>obſcure vile
+Perſon and of no great credit,</hi> not by <hi>Jerom,</hi> tho' <hi>Jerom</hi> re<g ref="char:EOLhyphen"/>lates
+it, as <hi>Luke</hi> did that of <hi>Paul.</hi> But there are many dif<g ref="char:EOLhyphen"/>ferences
+between the one and the other. <hi>Luke</hi> was an In<g ref="char:EOLhyphen"/>ſpir'd
+Hiſtorian, flouriſh'd when what he relates of <hi>Paul</hi>
+happen'd, it may be had his Relation from the Apoſtle him<g ref="char:EOLhyphen"/>ſelf,
+and had no Cauſe to ſupport: But <hi>Jerom</hi> liv'd about
+350 Years after <hi>Luke,</hi> Writes what he backs with no Au<g ref="char:EOLhyphen"/>thority
+or probable proof, and was now calling into que<g ref="char:EOLhyphen"/>ſtion
+the truth of <hi>Luke</hi>'s Hiſtory. There is then all the Rea<g ref="char:EOLhyphen"/>ſon
+in the World to believe that this Character of <hi>Luke,</hi> tho'
+father'd on the Gentiles, was the Iſſue of <hi>Jerom</hi>'s own Brain,
+to diſparage the <hi>LXX</hi> and to ſet up the <hi>Heb.</hi> Bible. Nor
+did St. <hi>Luke write the Acts for the uſe of the Gentiles,</hi> as Mr.
+<hi>O.</hi> aſſerts, tho' in time ('tis true) it might fall into their
+hands. But the Hiſtorian addreſſes it to <hi>Theophilus</hi> a Chri<g ref="char:EOLhyphen"/>ſtian,
+Chap. 1. 1. And what if <hi>Jerom</hi>'s <hi>Gentes</hi> were the Gen<g ref="char:EOLhyphen"/>tile
+Believers? Did they eſteem <hi>Luke</hi> obſcure, vile and of
+little Reputation? Sure (if this was his meaning) <hi>Jerom</hi>
+was not a little miſtaken, to ſpeak as ſoftly as I can. Be<g ref="char:EOLhyphen"/>ſides
+can any one believe <hi>Luke</hi> was leſs conſiderable among
+the unbelieving Nations, than the other Inſpir'd Writers?
+<pb n="9" facs="tcp:39246:5"/>
+He was the moſt learned of 'em all, except perhaps <hi>Paul.</hi>
+His Greek (as Criticks ſay) is the pureſt of all. He was a
+known Phyſician, which doubtleſs commended him to the
+eſteem of the Nations, both Jews and Gentiles as he tra<g ref="char:EOLhyphen"/>vell'd
+along with <hi>Paul,</hi> and that <hi>before his Writings were ever
+publiſhed.</hi> So that <hi>Jerom</hi> cannot be ſhelter'd by pretending,
+not he, but the Nations accounted him <hi>obſcure,</hi> &amp;c. For
+this Father further affirms, <hi>Non debuit,</hi> &amp;c. <hi>St. Luke ought
+not to write any thing contrary to the Scriptures, that were then
+in the hands of the Nations,</hi> that is contrary to the corrupt
+<hi>LXX.</hi> Here you ſee, he magiſterially declares what the
+Spirit of God ought not to do. Belike for fear of diſobli<g ref="char:EOLhyphen"/>ging
+them, who as yet had not the <hi>Hebrew</hi> verity among
+them. Right <hi>Jerom</hi> all over. The Inſpir<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Evangeliſt <hi>Luke</hi>
+to ſerve a ſmall turn muſt tell a Lye: Or leſt he ſhould
+offend the Nations, muſt diſſemble the Truth, <hi>The Hebrew
+verity,</hi> and this without all regard to the Jews, and Jewiſh
+Converts, whom he muſt needs ſcandalize thereby. Here
+is Diſſimulation with a witneſs, and made a neceſſary Du<g ref="char:EOLhyphen"/>ty
+<hi>(non debuit)</hi> in an Inſpir'd Pen-man of Scripture. Whoe<g ref="char:EOLhyphen"/>ver
+is diſpos'd to vindicate <hi>Jerom,</hi> may go to his Letters
+written to St. <hi>Auguſtin,</hi> and furniſh himſelf with Arguments
+enow to that purpoſe. But ſhall a Man lye for God? Sure<g ref="char:EOLhyphen"/>ly
+<hi>Jerom</hi>'s much Oriental Learning made him mad, I will
+not ſay <hi>a Blaſphemer.</hi> In fine, that <hi>Jerom</hi> fram'd this Cha<g ref="char:EOLhyphen"/>racter
+for <hi>Luke</hi> in the name of the Nations will appear from
+what he adds. Hoc generaliter obſervandum, quòd ubi<g ref="char:EOLhyphen"/>cunque
+SS. Apoſtoli &amp; Apoſtolici viri loquuntur<g ref="char:punc">▪</g> ad popu<g ref="char:EOLhyphen"/>los,
+iis plerumque Teſtimoniis abutuntur, quae jam fuerant
+in Gentibus divulgata. <hi>The Holy Apoſtles and Apoſtolick
+Men</hi> (neglecting the Hebrew verity) <hi>when they ſpeak to the
+People, make uſe of thoſe Teſtimonies,</hi> (viz. which <hi>Jerom</hi> con<g ref="char:EOLhyphen"/>tended
+were miſtaken and falſe) <hi>out of the LXX. which had
+already been divulg'd among the Nations</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Is not this
+<hi>ſuperfine</hi> Doctrine? One needs not be <hi>Hypercritical</hi> to ob<g ref="char:EOLhyphen"/>ſerve
+hence, that <hi>Jerom</hi> makes the Apoſtles and their Com<g ref="char:EOLhyphen"/>panions
+in Preaching the Goſpel to be a Pack of Diſſem<g ref="char:EOLhyphen"/>blers,
+and guilty of the ſame pious Frauds and holy Cheats,
+that he before ſuggeſted particularly of <hi>Luke.</hi> Once more
+<pb n="10" facs="tcp:39246:6"/>
+Commenting on <hi>Mic.</hi> 5. 2. He thus delivers himſelf, Sunt
+autem qui aſſerunt, &amp;c. <hi>There are who affirm</hi> (I believe
+no body but himſelf) <hi>that almoſt in all the Teſtimonies which
+are brought out of the Old Teſtament this Error is committed,
+either that the Order is chang'd, or the Words, and ſometimes
+the very ſenſe is different, the Apoſtles or Evangeliſts not ga<g ref="char:EOLhyphen"/>thering
+their Teſtimonies out of the Book, but truſting to their
+Memories, which ſometimes faild them.</hi> Sir, Can you read
+theſe Lines without Horrour and Amaſement? The Spirit
+of God ſurely (whereby they wrote) forgot not himſelf,
+tho' they did. That which follows from the whole is, that
+<hi>Jerom</hi> is not defended. The <hi>LXX.</hi> as to that Paſſage in
+the <hi>Acts</hi> Chap. 7. was in <hi>Jerom</hi>'s days more correct, than
+the <hi>Hebrew</hi> verity now is, and that the <hi>LXX.</hi> was fol<g ref="char:EOLhyphen"/>low'd
+by the Inſpir'd Infallible Apoſtles, and Apoſtolical
+Men, as <hi>Jerom</hi> acknowledgeth. May it not then be in<g ref="char:EOLhyphen"/>ferr'd
+hence as probable, that <hi>Paul</hi> follow'd them in his
+<hi>3d.</hi> to the <hi>Romans</hi> v. 13. <hi>&amp;c.</hi> and tranſcrib'd the Verſes
+out of the then <hi>LXX?</hi> O! but the Greek Fathers do not
+Comment on theſe Verſes. Suppoſing this (for I have
+'em not ready at hand, nor leiſure to examin them all)
+the Reaſon may be, either they Commented on them in
+other places, or it was an <hi>innocent Omiſſion,</hi> or elſe 'tis
+but a negative Argument and unconcluding. But after
+all, let us imagine the Three Verſes have been interpo<g ref="char:EOLhyphen"/>lated,
+this is no juſt Excuſe of Mr. <hi>D.</hi> who accus'd <hi>us</hi>
+for foiſting them in. Why may not we do ſo as well as,
+and after <hi>Paul?</hi> And beſides they are in the Latin Vul<g ref="char:EOLhyphen"/>gar
+Verſion, which was in uſe in <hi>Jerom</hi>'s days, and is ſtill
+in good Credit with Mr. <hi>O.</hi> You may ſee more Reaſons
+given to excuſe the Church of <hi>England.</hi> Serm. p. 7. <hi>R. R.</hi>
+p. 18. which I will not trouble you with. Here I leave
+this part of the Controverſie to the Judgment of any Man
+of Underſtanding, whether Mr. <hi>O.</hi> has vindicated either
+<hi>Jerom</hi> or Mr. <hi>D.</hi>
+            </p>
+            <p>The Queſtion about the Three Verſes <hi>Pſal.</hi> 14. occa<g ref="char:EOLhyphen"/>ſion'd
+a more general one concerning the <hi>LXX.</hi> and the
+<hi>Hebrew</hi> Copies of the Old Teſtament: The former are by
+my Adverſaries ſaid to have been corrupted; and I gran<g ref="char:EOLhyphen"/>ted
+<pb n="11" facs="tcp:39246:6"/>
+it, but withal affirm'd that ſo are the <hi>Hebrew</hi> alſo.
+But Mr. <hi>O.</hi> undertakes to prove they were not corrupted
+before and in our Saviour's days.</p>
+            <p>Here I muſt premiſe (becauſe Mr. <hi>O.</hi> makes ſuch an hi<g ref="char:EOLhyphen"/>deous
+Out-cry againſt the Rector, as if he were about de<g ref="char:EOLhyphen"/>priving
+the Church of the Scriptures, and a Divine Know<g ref="char:EOLhyphen"/>ledge
+of the reveal'd Will of God) that my Argument is
+not intended, neither looks that way at all, as any fair Ad<g ref="char:EOLhyphen"/>verſary
+would grant. The Truths of Revelation are to be
+ſought for, not out of the <hi>Hebrew</hi> Text <hi>only,</hi> nor out of the
+<hi>LXX. only,</hi> but out of both, which lend their helping hand
+to one another, together with all other Ancient Tranſla<g ref="char:EOLhyphen"/>tions,
+and thoſe numerous Quotations of Scripture which
+we meet with in the Fathers. And I humbly conceive no<g ref="char:EOLhyphen"/>thing
+miniſters more advantage unto Atheiſts, than obſti<g ref="char:EOLhyphen"/>nately
+to contend that the <hi>Hebrew</hi> Text is not in the leaſt
+corrupted, and to ſtrip us of all other means of correcting
+it. Now Mr. <hi>O.</hi> attempts to evince his Opinion by Three
+Arguments.</p>
+            <p>I. That the <hi>Hebrew</hi> Bibles are <hi>de facto</hi> incorrupt.</p>
+            <p>II. That the Jews could not.</p>
+            <p>III. Would not corrupt them. The firſt he confirms
+thus, <hi>Becauſe Chriſt never charg'd the Jews with corrupting
+them. A.</hi> If the <hi>Hebrew</hi> Text was the ſame in Chriſt's as
+in our days (which Mr. <hi>O.</hi> muſt acknowledg) then it had
+been corrupted in Chriſt's time: This appears afterwards.
+Beſides I retort his Reaſon thus, the <hi>LXX.</hi> was not cor<g ref="char:EOLhyphen"/>rupted
+in the Apoſtles days, becauſe they never charg'd
+that Verſion with any Corruptions, as they would and
+ought to have done. As Chriſt bids his Diſciples <hi>to ſearch
+the Scriptures</hi> (the <hi>Hebrew</hi> Copy) So St. <hi>Paul</hi> commends
+the <hi>Bereans</hi> that they <hi>ſearched the Scriptures,</hi> and <hi>Timothy,</hi>
+that by his Mother and Grandmother he had been train'd
+up in the Knowledge of the Scriptures, <hi>viz.</hi> in the <hi>LXX.</hi> for
+all theſe were either Gentiles, or Gentile Proſelytes, or
+Helleniſtical Jews, and therefore us'd the <hi>LXX.</hi> When <hi>Ori<g ref="char:EOLhyphen"/>gen</hi>
+and <hi>Jerom</hi> ſpeak thus, <hi>That moſt of the allegations made
+by Chriſt and his Apoſtles out of the Old Teſtament are ſtill
+<pb n="12" facs="tcp:39246:7"/>
+there,</hi> they plainly enough confeſs that <hi>ſome</hi> are not, and
+conſequently there muſt have been a corruption of the Old
+Scriptures according to theſe Fathers. On the other hand
+I<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll give you a better Argument in proof of their Corrup<g ref="char:EOLhyphen"/>tion,
+<hi>viz.</hi> becauſe they had been corrupted before <hi>Ezra</hi>'s
+time, <hi>who</hi> (ſay moſt of the Fathers) <hi>corrected the Errors
+that had crept in afore-time, and amended them, as the He<g ref="char:EOLhyphen"/>brews
+report.</hi>
+               <note place="margin">Synop. in Ez. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Now tell me, is it not much more proba<g ref="char:EOLhyphen"/>ble,
+that they were ſomewhat corrupted between <hi>Ezra</hi> and
+Chriſt? Had God a greater care of the Scriptures under
+the ſecond Temple, than under the firſt, when Prophets
+were common among them? But of this more by and by.</p>
+            <p>2. Mr. <hi>O.</hi> in his Harangue here inſinuates that I affirm
+<hi>an <g ref="char:V">Ʋ</g>niverſal Corruption of the Hebrew Copies,</hi> but 'tis Mr. <hi>O</hi>'s
+own fancy not mine; and beſides he talks very highly of
+Providence, even as if there lay an abſolute engagement
+on God, either not to ſuffer any Corruption, or miracu<g ref="char:EOLhyphen"/>louſly
+to diſcover it. <hi>A</hi> Why then has Providence per<g ref="char:EOLhyphen"/>mitted
+ſo many various Readings in the New Teſtament?
+and why has not God by ſome extraordinary means told
+us, whether the latter Period <hi>1 Jo.</hi> 2. 23. was written by
+Divine Inſpiration, or added by ſome Tranſcriber? The
+ſumm is, Providence has taken care that all the material
+neceſſary and Eſſential Doctrines of Religion are ſtill abun<g ref="char:EOLhyphen"/>dantly
+preſerved in the Scriptures, and no falſe Doctrines
+therein eſtabliſh'd, which I take to be true both of the <hi>He<g ref="char:EOLhyphen"/>brew,</hi>
+the <hi>LXX.</hi> and the New Teſtament. But ſtill in all
+Ages before Printing, Corruptions of other kinds crept in,
+and God for Reaſons beſt known to his Wiſdom has permit<g ref="char:EOLhyphen"/>ted
+it.</p>
+            <p>3. It muſt be granted a pious Jew would not purpoſely
+Corrupt the <hi>Hebrew</hi> Text, but others would. That very
+Talmudical Tale<g ref="char:punc">▪</g> that one <hi>Solomon</hi> endeavour'd to root <hi>Jod</hi>
+out of the Text ſhews that ſome Jews would have Corrup<g ref="char:EOLhyphen"/>ted
+the <hi>Hebrew</hi> Text. You ſee how unconcluding Mr. <hi>O</hi>'s.
+Arguments are. In a word, that the Jews would have cor<g ref="char:EOLhyphen"/>rupted
+the Word of God in the Propheſies pointing at Jeſus
+Chriſt, is undeniably true from <hi>Juſtin Martyr</hi> his Dialogue,
+wherein he chargeth them with it. It muſt be allow'd
+<pb n="13" facs="tcp:39246:7"/>
+thence that they had inclination enough to attempt it, or
+elſe the Martyr could in no wiſe be excuſed; whether
+they were ſucceſsful is to be examin'd in the next place,
+and</p>
+            <p>1. From the Teſtimony of <hi>Juſtin</hi> and in anſwer to Mr. <hi>O.</hi>
+I affirm,</p>
+            <p>1. That <hi>Juſtin Martyr</hi> did underſtand both the <hi>Hebrew</hi>
+and <hi>Syriac</hi> Languages, and ſo doubtleſs was acquainted
+with the <hi>Hebrew</hi> Bible. For in Apology <hi>2d.</hi> He calls him<g ref="char:EOLhyphen"/>ſelf
+<hi>the Son of</hi> Priſcus Bacchius <hi>born or come from</hi> Flavia Ne<g ref="char:EOLhyphen"/>apolis
+<hi>in the Syrian Paleſtine.</hi> Accordingly I find him play<g ref="char:EOLhyphen"/>ing
+the Critic upon the Etymology of <hi>Satanas,</hi> Dialog. p. 331.
+deriving it from the Jewiſh and Syrian Tongue; <hi>Sata,</hi> ſig<g ref="char:EOLhyphen"/>nifying
+<hi>Apoſtata, &amp; Nas, Serpens.</hi> Yea, Mr. <hi>O</hi>'s. inſtance
+proves him skill'd in the <hi>Hebrew;</hi> nor was he miſtaken
+when he affirm'd, that <hi>Iſrael</hi> imported <hi>homo vincens virtu<g ref="char:EOLhyphen"/>tem</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies Virtue, Fortitude, one of the great At<g ref="char:EOLhyphen"/>tributes
+of God, which Mr. <hi>O</hi>'s Novice did not conſider.
+And God oft in Scripture makes an Attribute to be as it
+were his proper Name, <hi>1 Sam. 15. 29. The ſtrength of</hi> Iſ<g ref="char:EOLhyphen"/>rael
+<hi>cannot lye,</hi> that is, God cannot. So <hi>Jacob as a Prince
+had power with</hi> Fortitude it ſelf, that is, with <hi>God.</hi> And that
+<hi>Juſtin</hi> by <hi>Virtue</hi> meant no other than God, may be ſeen
+Dial. p. 285. where he ſo reads the place, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>2. It is not then the <hi>LXX.</hi> only us'd in the Synagogues,
+that <hi>Juſtin Martyr</hi> challengeth as corrupted by the Jews,
+but the <hi>Hebrew</hi> alſo. For after he had defended the Ver<g ref="char:EOLhyphen"/>ſion
+of the <hi>LXX.</hi> then among the Chriſtians, to have been
+exactly true in the places before ſpoken of, and had chal<g ref="char:EOLhyphen"/>leng'd
+the Jews (p. 297.) for having eras'd out of theirs
+many intire Paſſages, which foretold the Crucifixion of
+Jeſus Chriſt God and Man, which places becauſe the Jews
+deny'd to belong unto the Scripture, <hi>Juſtin</hi> promiſes to
+make good his general Charge out of thoſe very Scriptures<g ref="char:punc">▪</g>
+which the Jews acknowledg'd to be genuine, and accor<g ref="char:EOLhyphen"/>dingly
+produces a Paſſage out of <hi>Eſdras,</hi> two out of <hi>Iſaiah<g ref="char:punc">▪</g>
+               </hi>
+and that of <hi>Pſal.</hi> 96. 10, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which Obſervations
+<pb n="14" facs="tcp:39246:8"/>
+he had made out of the Scriptures, which the Jews read
+in their Synagogues (p. 298.) And he adds, theſe Corrup<g ref="char:EOLhyphen"/>tions,
+or at leaſt one had crept in very lately. To all
+which <hi>Trypho</hi> had not a word to ſay. It hence appears that
+<hi>Juſtin</hi> argues not out of his own ſingle Copies of the <hi>LXX.</hi>
+which Mr. <hi>O.</hi> ſeems to grant had theſe Paſſages, but out of
+many Copies us'd in the Jewiſh Synagogues, which the
+Father had carefuly examin'd, and in all likelihood <hi>Hebrew</hi>
+Copies too in Paleſtine of <hi>Syria,</hi> whereof he was a Native.
+Nor can we ſuppoſe <hi>Juſtin Martyr</hi> argu'd from his own
+<hi>Greek</hi> Copy only, but thoſe commonly in the hands of the
+Chriſtians. He had more ſenſe than ſo to impoſe upon him<g ref="char:EOLhyphen"/>ſelf
+and <hi>Trypho</hi> too.</p>
+            <p>3. It muſt be confeſſed it is a wonder that even after <hi>Ju<g ref="char:EOLhyphen"/>ſtin</hi>
+had thus noted theſe Corruptions, the Chriſtians ſhould
+not have amended them. But I can produce Mr. <hi>O.</hi> a like
+Inſtance, which muſt be acknowledg'd parallel. All the
+<hi>Hebrew</hi> Copies that we have (as far as I can learn) and
+mine in particular has that of <hi>Pſal. 22. 16. As a Lion,</hi> in<g ref="char:EOLhyphen"/>ſtead
+of <hi>They pierced;</hi> and I have conſulted <hi>Pagnine,</hi> who
+renders it <hi>tanquam Leo,</hi> though in the Margin he has <hi>fo<g ref="char:EOLhyphen"/>derunt.</hi>
+And though all agree that <hi>they pierced</hi> is the true
+Reading, and though ſome ſeem to have found a few Co<g ref="char:EOLhyphen"/>pies
+in <hi>Hebrew</hi> which have it ſo, yet for the two Ages laſt
+paſt, wherein Learning has ſuperabounded they have not
+corrected this <hi>Erratum.</hi> Our beloved Jews doubtleſs will
+not ſuffer us; and we haply are as unwilling as they, leſt
+the Infallibility of the <hi>Hebrew</hi> Text to a title, like that of
+the <hi>Roman</hi> Church, ſhould come to nothing, for this Change
+would be an open acknowledgment of its Corruption. Let
+then Mr. <hi>Fuller</hi> call me <hi>Foulmouth,</hi> and Mr. <hi>O. Blaſphe<g ref="char:EOLhyphen"/>mer,</hi>
+I am ſtill of Opinion, and do aver upon the Autho<g ref="char:EOLhyphen"/>rity
+of <hi>J. M.</hi> that the <hi>Hebrew</hi> Copies the Jewiſh <hi>LXX.</hi>
+and both have receiv'd ſome Corruptions. But to return,
+If the places had been found in any of the <hi>Hebrew</hi> Copies
+in the days of <hi>Juſtin,</hi> it had been an eaſie matter for <hi>Try<g ref="char:EOLhyphen"/>ph<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+and the Jews to have appeal'd to the Original <hi>Hebrew</hi>
+Verity for their Juſtification, and retorted upon <hi>J. Martyr,</hi>
+               <pb n="15" facs="tcp:39246:8"/>
+that the Chriſtians rather had been the Authors of the fore<g ref="char:EOLhyphen"/>mention'd
+Interpolations, for the ſupport and advance<g ref="char:EOLhyphen"/>ment
+of their Religion. They might the more confident<g ref="char:EOLhyphen"/>ly
+have done this, if <hi>J. M.</hi> had not underſtood the <hi>He<g ref="char:EOLhyphen"/>brew.</hi>
+            </p>
+            <p>The Chronological Argument I will not meddle with;
+I muſt either Tranſcribe <hi>Voſſius,</hi> or waſt more Time and
+Paper than is needful, ſince any one may have the intire
+Argument at the Fountain Head; but to treat of it in
+ſhort, as Mr. <hi>O.</hi> has done, and over-look the moſt, and
+the beſt of the Arguments, would be to ſmall purpoſe. On<g ref="char:EOLhyphen"/>ly
+remember that <hi>Voſſius</hi> eſtabliſhes the Chronology of the
+<hi>LXX.</hi> by the Teſtimony of <hi>Joſephus,</hi> between whom there
+is a very near Agreement: And all the World knows that
+<hi>Joſephus</hi> was a learned Man, a ſaithful Hiſtorian, a Jew<g ref="char:EOLhyphen"/>iſh
+Prieſt and Interpreter of the Law, and therefore could
+not be very much miſtaken in this matter. But whereas
+Mr. <hi>O.</hi> ſuggeſts p. 70. that upon this Principle of 6000
+Years we cannot prove Chriſt is yet come, I reply 1. It
+may upon that very Principle be prov'd, if we will admit
+(as we ought) the <hi>LXX.</hi> into our aſſiſtance. 2. Suppo<g ref="char:EOLhyphen"/>ſing
+the <hi>Hebrew</hi> Chronology right, it is not neceſſary for
+us to follow the Jewiſh Principle of 6000 Years; it's ſuf<g ref="char:EOLhyphen"/>ficient
+to ſay, (let what will become of the Chronology
+whether it be 4 or 6000 Years) that the time of Chriſt's
+Appearance in the Fleſh was come in the days of <hi>Augu<g ref="char:EOLhyphen"/>ſtus
+Ceſar,</hi> when both Jews and Samaritans were big with
+expectations of him, and thereby acknowledg'd the time
+to be fulfill'd. Which time, if they believ'd to be 6000
+Years it is not unlikely, but they corrupted the <hi>Hebrew</hi>
+Chronology, to juſtifie their not Believing and Crucifying
+Him.</p>
+            <p>The Inſtance of <hi>Cainan, Luke</hi> 3. in Chriſt's Genealogy,
+left out of the <hi>Hebrew,</hi> is ſo clear, that one might juſtly
+admire good Authors ſhould ſo toil and ſweat, to avoid
+<hi>Luke</hi>'s Teſtimony, and all for the ſake of the <hi>Hebrew</hi> Ve<g ref="char:EOLhyphen"/>rity.
+I can give a plauſible Reaſon, why the Jews might
+<pb n="16" facs="tcp:39246:9"/>
+leave <hi>Cainan</hi> out of the <hi>Heb. viz.</hi> Becauſe thereby they
+would diſparage and overthrow <hi>Luke</hi>'s Genealogy, and ſpoil
+his credit among the Nations. As for other Additions unto
+the <hi>LXX.</hi> 'tis nothing to the Point. It is confeſs'd the <hi>LXX.</hi>
+has been corrupted: But 'tis—(I will not ſay <hi>Bla<g ref="char:EOLhyphen"/>ſphemy)</hi>
+to impute Corruption unto that place, which has
+receiv'd Teſtimony from the Spirit of God by the Pen of
+<hi>Luke.</hi> But ſays Dr. <hi>Lightfoot, Luke muſt follow the Hea<g ref="char:EOLhyphen"/>then's
+Bibles in his Quotations.</hi> That is, <hi>Luke</hi> an Inſpir'd
+Penman <hi>(debet,</hi> as <hi>Jerom</hi> before him) muſt leave the <hi>He<g ref="char:EOLhyphen"/>brew</hi>
+Verity, and tranſcribe out of a corrupt Verſion of
+the Scriptures. Some haply would think this not far off
+<hi>Blaſphemy;</hi> but I will not reflect ſo ſeverely on that wor<g ref="char:EOLhyphen"/>thy
+and learned Gentleman. 2. The Doctor, adds, <hi>Luke
+was but a Copyer and not a Corrector</hi> But he was an In<g ref="char:EOLhyphen"/>ſpir'd
+Copyer, and ought by the <hi>Hebrew</hi> Verity to have
+amended, at leaſt not have follow'd the Corrupt <hi>LXX.</hi>
+Ay but, <hi>the Gentiles well acquainted with the</hi> LXX <hi>would
+then have call'd</hi> Luke<hi>'s veracity into Queſtion.</hi> A. So they
+did, if <hi>Jerom</hi> is to be believ'd; however, <hi>Luke</hi> ought not,
+doubtleſs did not value this. Let God be true, but
+every Man a Lyar. Shall an Inſpir'd Writer value his own
+veracity above the Truth of God's Word? The Dr. con<g ref="char:EOLhyphen"/>feſſes,
+<hi>Luke in the reſt was a Faithful Tranſcriber.</hi> Very
+good, I think ſo. And why not in this? Or how can a
+Man believe <hi>him</hi> in any thing, who was unfaithful in one,
+or two? Here is a curious Principle, upon which <hi>Jerom</hi>'s
+lawfulneſs of Diſſimulation, and the Papiſts <hi>pia fraudes,</hi>
+and officious Lies may be vindicated, and differs very lit<g ref="char:EOLhyphen"/>tle
+from that Maxim of <hi>Jerom, Quod ubicunque SS. Apo<g ref="char:EOLhyphen"/>ſtoli
+&amp; Apoſtolici viri loquuntur ad populos, iis plerumque
+teſtimoniis abutuntur, quae jam fuerant in Gentibus divulga<g ref="char:EOLhyphen"/>ta.</hi>
+The Apoſtles it ſeems were very cautious of offen<g ref="char:EOLhyphen"/>ding
+the Gentiles, but not of ſcandalizing the Jews, and
+the Jewiſh Proſelytes, by this unfaithful repreſentation of
+the Hiſtory of the Jewiſh Church and Chriſt's Genea<g ref="char:EOLhyphen"/>logy.</p>
+            <p>
+               <pb n="17" facs="tcp:39246:9" rendition="simple:additions"/>
+To the Corruption, noted, <hi>Pſalm</hi> 22. 16. Mr. <hi>O.</hi> re<g ref="char:EOLhyphen"/>plies,
+and mentions ſeveral <hi>Hebrew</hi> Copies, which read,
+<hi>they pierced.</hi> Very well, and is not this a fair Con<g ref="char:EOLhyphen"/>feſſion,
+that the <hi>Hebrew</hi> Copies have in this place gene<g ref="char:EOLhyphen"/>rally
+been corrupted? And I ask, how ſhall the true
+Reading be adjuſted, but by the Teſtimony of the LXX?
+For the Paſſage is not once cited in the New Teſta<g ref="char:EOLhyphen"/>ment.
+<hi>It is no wonder</hi> (Mr. <hi>O.</hi> ſays) <hi>the Jews ſhould
+prefer that Reading which favours their Cauſe.</hi> Right,
+but 'tis wonder upon wonder to me, the Chriſtian
+Sticklers for the <hi>Hebrew</hi> Verity, ſhould continue it ſtill
+in the Text, for fear, (I ſuppoſe) of offending the
+<hi>Jews,</hi> without any regard to the Chriſtians, and to the
+Truth. Or, rather as Mr. <hi>O</hi>'s. Story of the <hi>Famous
+Dan. Bomb.</hi> for fear of loſing the Sale of their Bibles ſo
+corrected; for which Reaſon he might better be ſtyl'd
+<hi>Infamous.</hi>
+            </p>
+            <p>
+               <hi>I add again that Paſſage,</hi> Deut. 32. 8. According to
+the number of the Angels, <hi>even</hi> Jerom <hi>himſelf thus reads
+it.</hi> Quatuor ventos coeli; quatuor arbitror Angelicas po<g ref="char:EOLhyphen"/>teſtates,
+quibus principalia Regna commiſſa ſunt, juxta il<g ref="char:EOLhyphen"/>lud
+quod in <hi>Deuter,</hi> legimus, Quando dividebat altiſſimus,
+Gentes, quando ſeparabat filios <hi>Adam,</hi> conſtituit Terminos po<g ref="char:EOLhyphen"/>pulorum,
+juxta numerum Angelorum Dei. <hi>It muſt then
+be confeſſed, that this was the true Reading in</hi> Jerom<hi>'s
+time, but not ſo now. The</hi> Hebrew <hi>Copies therefore at
+this day are here corrupted, if</hi> Jerom <hi>may be credited.</hi>
+            </p>
+            <p>Once more, take notice, that there is, at this day, a Cor<g ref="char:EOLhyphen"/>ruption
+of the <hi>Hebrew</hi> Text, in the <hi>1 Sam.</hi> 2. 17. Where
+it plainly diſcovers it ſelf, the Courſe of the Story be<g ref="char:EOLhyphen"/>ing
+intolerably perplext and tranſpos'd, as any one will
+diſcern, reading the latter end of the <hi>16th,</hi> the whole
+<hi>17th,</hi> and beginning of the <hi>18th</hi> Chapter. But I will
+not enlarge on this, nor trouble you with thoſe lame
+Solutions of this Difficulty, which I meet with in the
+<hi>Synopſis;</hi> all of 'em devis'd to ſalve up the Credit and
+Infallibility of the <hi>Hebrew</hi> Verity; whereas the moſt ex<g ref="char:EOLhyphen"/>pedite
+<pb n="18" facs="tcp:39246:10"/>
+and Satisfactory Way, if Men could lay aſide
+Prejudices, is to correct the place by the LXX.</p>
+            <p>
+               <hi>Moſes</hi> bleſſing the ſeveral Tribes of <hi>Iſrael, Deut.</hi> 33. 6.
+Thus ſpeaks of <hi>Reuben</hi> in the <hi>Hebrew: Let Reuben live
+and not die, and let his men, (his poſterity) be few.</hi> For
+tho' our Tranſlators have helped the place by adding
+the Negative (which indeed ought to be there, elſe
+<hi>Moſes</hi> Curſes that Tribe, inſtead of Bleſſing it) yet it is
+not in the <hi>Hebrew,</hi> as is acknowledg'd by our Tran<g ref="char:EOLhyphen"/>ſlators,
+putting the Negative <hi>not,</hi> in a different Character.
+Here, again, the Criticks in the <hi>Synopſis</hi> take a
+deal of Pains to patch up the <hi>Hebrew</hi> Verity, but with<g ref="char:EOLhyphen"/>out
+any Satisfaction to me, I do profeſs.</p>
+            <p>
+               <hi>But let us now take a view of</hi> Jerom, <hi>who will appear
+not ſo tight and ſo firmly perſwaded of the Incorruption
+of the</hi> Hebrew <hi>Text, as Mr.</hi> O. <hi>is, Commenting on that
+Paſſage,</hi> Gal. 3. 13. Curſed is every one that hangeth on
+a tree. <hi>He delivers himſelf thus,</hi> Ex quo mihi videtur,
+<hi>&amp;c.</hi> From whence it ſeems to me, either that the ancient
+<hi>Hebrew</hi> Copies read the words otherwiſe, than at preſent,
+or the Apoſtle expreſſed the Senſe of the Scriptures, not the
+Words, or (which is rather to be thought) that the Name
+of God was after the Paſſion of Chriſt, by ſome body ad<g ref="char:EOLhyphen"/>ded
+to the <hi>Hebrew,</hi> and to our Bibles, that he might diſ<g ref="char:EOLhyphen"/>parage
+us, who bolieve in Chriſt <hi>(as if)</hi> accurſed of God.</p>
+            <p>
+               <hi>Again, on</hi> Micah 5. 2. <hi>He obſerves that many Ci<g ref="char:EOLhyphen"/>ties
+or Villages, eleven in number, are reckon'd up,</hi>
+(Joſ. 15. 60.) <hi>in the LXX, tho' not in the</hi> Hebrew, <hi>and
+amongſt the reſt,</hi> Ephratah, <hi>or</hi> Bethlehem, <hi>which belong'd
+to the Tribe of</hi> Judah, <hi>whence Chriſt ſprang,</hi> Matth. 2.
+6. <hi>He then adds,</hi> ſive d<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> veterihus eraſum ſit militia
+Judeorum. <hi>&amp;c.</hi> We know not certainly, whether it was
+ſtruck out of the Ancient Copies thro' the Malice of the
+<hi>Jews,</hi> leaſt <hi>Chriſt</hi> ſhould hence appear to have ſprang from
+the. Tribe of <hi>Judah,</hi> or whether it was added by the LXX.
+<pb n="19" facs="tcp:39246:10" rendition="simple:additions"/>
+               <hi>But enough, and more (I hope) than needed on this
+Point.</hi>
+            </p>
+            <p>Having, I ſuppoſe, made good my Aſſertion, that the
+<hi>Hebrew</hi> Bibles have been corrupted in all Ages<g ref="char:punc">▪</g>; I now
+return to the main Buſineſs. When I had been in the
+Sermon on the Defenſive, and had vindicated the
+Church of <hi>England,</hi> from Mr. <hi>D</hi>'s. frivolous Objections;
+and having at that time (it was a time of Peace a<g ref="char:EOLhyphen"/>mong
+us) met with a Pamphlet in great Vogue at
+<hi>Mancheſter,</hi> Intituled, <hi>Notes on the B. of</hi> S. <hi>&amp;c.</hi> And
+another in <hi>M. S.</hi> call'd a Sermon, in both which, we
+were vilely, Maliciouſly, and Cauſeleſly traduc'd; and
+ſo the Peace being broken, I thought it not improper
+to carry the War into the Enemies own Country, and
+to let 'em ſee, it was poſſible to give 'em a Diverſion,
+Briefly, I taxt them with that Corruption, <hi>Acts</hi> 6. I
+argu'd conjecturally, and from Circumſtances, but prin<g ref="char:EOLhyphen"/>cipally
+from Matter of Fact. And becauſe Mr. <hi>O.</hi>
+was not content with one, and that a <hi>Scotch</hi> Inſtance
+too, I then prov'd 'em to have countenanc'd and ſup<g ref="char:EOLhyphen"/>ported
+the Corruption by two other Overt Acts, which
+render'd my other Conjectures the more probable, and
+the main Charge <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt them beyond all Con<g ref="char:EOLhyphen"/>troverſie.
+The life of the whole Argument put toge<g ref="char:EOLhyphen"/>ther,
+depends on the Evidence of thoſe Matters of Fact,
+which, whether Mr. <hi>O.</hi> has vindicated the united Bre<g ref="char:EOLhyphen"/>thren
+from, is now to be conſider'd. But firſt, take
+notice, it ought not to ſurprize you, that my Circum<g ref="char:EOLhyphen"/>ſtantial
+Proofs are made ſo little account of. Even Ma<g ref="char:EOLhyphen"/>lefactors
+have Brow enough to ſtand out to the laſt
+gaſp againſt ſuch Evidence, and to aſſert their Innocence,
+when the Halter is about their Necks, and ſometimes
+againſt poſitive Witneſs alſo.</p>
+            <p>To the <hi>Cameronian</hi> Inſtance, all that is offer'd of
+moment (if that be ſo) is <q>Coll. <hi>Fairfax</hi> heard not the
+<hi>Camer.</hi> Urge the corrupt Reading, and that perhaps
+the Story paſs'd twenty Hands, before it reach'd
+the Collonel.</q> But perhaps it paſſed not above one,
+and it is plain the Collonel believ'd it, and we ought
+<pb n="20" facs="tcp:39246:11"/>
+not to think him ſo Eaſie and Credulous, as to enter<g ref="char:EOLhyphen"/>tain
+a Story without good Ground. Beſides, in the
+more large Account, I have of the Story, the Reporter
+is mention'd by the Collonel, with Honour and Reſpect,
+whom he ſtiles a <hi>Gentleman,</hi> and <hi>perhaps</hi> inclinable to
+the <hi>Cameronian</hi> Faction, yea, <hi>perhaps</hi> that Gentleman
+might urge it by way of Diſpute with the Collonel.
+What abundance of things may one ſurmiſe? But Mr.
+<hi>O.</hi> Pleads, <hi>Perſon, Time and Place, are not nam'd, that
+therefore the Evidence is blind, and would look ridiculous
+in a Court of Judicature.</hi> The proper Anſwer hereunto,
+is, that tho' ſuch Teſtimonies in Courts of Juſtice, are
+not accounted ſufficient to ground a Judiciary Defini<g ref="char:EOLhyphen"/>tive
+Sentence upon, yet are they not Ridiculous, but
+oft-times believ'd by the Court. An Evidence may be
+ſufficient for private Conviction, which will not be al<g ref="char:EOLhyphen"/>low'd
+of, in publick Forms of Juſtice.</p>
+            <p>St. <hi>Paul</hi> accuſes ſome of the <hi>Corinthians</hi> (and he had
+it from ſome of the Houſe of <hi>Cloe,</hi> whom he mentions
+not, and through how many Hands it paſſed, we know
+not) for diſparaging him. <hi>His Letters are weighty and
+powerful, but his bodily Preſence is weak and contemptible.</hi>
+Here was neither Perſon, nor Time, nor Place nam'd,
+and yet <hi>Paul</hi> believ'd the Report. But the Reaſon of
+the Collonel's not naming Perſon, Time, and Place, is
+obvious. For not thinking any uſe would be made of
+the Story, and neglecting to put down theſe Circum<g ref="char:EOLhyphen"/>ſtances
+in his Memorials. He eaſily let 'em ſlip out of
+his Memory. The Faith of Men is at a low Ebb, if
+the want of theſe Circumſtances muſt damn all Reports
+as Ridiculous, and eſpecially, when they are but of
+yeſterday.</p>
+            <p>To the Information of Mr. <hi>Elliſon,</hi> he pleads that
+Mr. <hi>Jolly</hi> is dead, and thereby <hi>we are put out of all hopes
+of being able to examin the Truth.</hi> I queſtion not, but
+you ſee this is meer ſhifting. If Mr. <hi>O.</hi> doth really
+ſuſpect the<g ref="char:punc">▪</g> Veracity of Mr. <hi>Elliſon,</hi> let him (for he has
+<pb n="21" facs="tcp:39246:11"/>
+the means) inquire into ſome of the Circumſtances,
+which will in a good meaſure clear the reſt. There
+are thoſe in and about <hi>Mancheſter,</hi> who can tell him
+there was ſuch a Diſſenting Miniſter as Mr. <hi>Jolly,</hi> that
+there is ſuch a Place as <hi>Duckenfield hall,</hi> whether Diſ<g ref="char:EOLhyphen"/>ſenters
+were wont to reſort, and I doubt not, but it
+may be prov'd, that Mr. <hi>E.</hi> and Mr. <hi>J.</hi> were then in<g ref="char:EOLhyphen"/>gag'd
+in ſome Diſputes about Church Diſcipline, and
+Government. And if ſo, there is no Reaſon to reject
+Mr. <hi>Elliſon</hi>'s Teſtimony, as a meer deviſed Tale. Will a<g ref="char:EOLhyphen"/>ny
+one ſay this Evidence is a blind one? Would it not
+be admitted in a Court of Juſtice? No Judge but up<g ref="char:EOLhyphen"/>on
+ſuch Teſtimonies, would decree the Nuncupative
+Will of a deceaſed Perſon, Good and Valid.</p>
+            <p>As to that Story from the <hi>Bolton</hi> Gentleman, it is an
+unexceptionable Proof of what it was produced for.
+My Buſineſs was not to ſhew, upon what particular
+Point this fals Reading was alledg'd either at <hi>Duc<g ref="char:EOLhyphen"/>kenfield,</hi>
+or in this Diſpute, whether about Peoples <hi>mak<g ref="char:EOLhyphen"/>ing,</hi>
+or <hi>chooſing</hi> their own Miniſters, but that it has been
+urg'd <hi>in favour of the Popular Government,</hi> and the vari<g ref="char:EOLhyphen"/>ous
+Reading can concern nothing elſe. Nor was the
+Queſtion between Mr. <hi>O.</hi> and me, whether any <hi>Diſſent<g ref="char:EOLhyphen"/>ing
+Miniſters,</hi> but any <hi>Proteſtant Diſſenters had ever urg'd
+the Corrupt Reading,</hi> Rem. <hi>p.</hi> 14. And if theſe Diſſen<g ref="char:EOLhyphen"/>ting
+Diſputants were ſo ignorant, as they are ſuſpected
+to be (for they ſhall be called Ignorant when the
+Cauſe requires it, tho' at other times they are the moſt
+knowing Perſons) can it with Reaſon be thought, but
+that the Argument was put into their Mouths <hi>by ſome
+of their Leaders?</hi> Whether Laymen or pretending Mini<g ref="char:EOLhyphen"/>ſters,
+is of no moment in this Caſe.</p>
+            <p>Upon the whole Matter, it is, I hope, manifeſt, that
+the Diſſenters, if they did not contrive the <hi>Erratum,</hi>
+were juſtly charg'd with owning it, ſeeing they have
+endeavour'd to improve it unto their own Advantage.
+If they did not beget it, they have at leaſt Father'd it,
+and why ſhould we refuſe 'em the Child, which (right,
+<pb n="22" facs="tcp:39246:12" rendition="simple:additions"/>
+or wrong, concerns not us) they lay claim unto, and
+no body elſe has a mind to, eſpecially when it was in
+requital for ſpiteful and groundleſs Reflections, caſt
+on us by the Note-maker without Provocation: For
+<hi>requital</hi> ſeems to Mr. <hi>O.</hi> a juſt Reaſon for thus doing.
+Now then, if we muſt yet dwell upon that Expoſtulation,
+<hi>who began,</hi> and who juſtly <hi>requited?</hi> You will find this
+reſolv'd at the entrance of <hi>R. R.</hi> And yet without any
+Defence againſt that part of my Apology, we are ſtill
+told. <hi>The Note-maker doth not charge any Perſonal Fault of
+the Biſhop of</hi> S. <hi>on the whole body of the Epiſcopal Church,</hi>
+Vindic. p. 22. But ſee here how Prejudice and Parti<g ref="char:EOLhyphen"/>ality
+will blind a Man; for he immediately ſubjoyns,
+that the Note-maker <hi>retorts the Schiſm upon the Church,</hi>
+which the Biſhop of <hi>S.</hi> had ſuppos'd the Diſſenters guil<g ref="char:EOLhyphen"/>ty
+of. Now I think the Epiſcopal Church is here
+charg'd with <gap reason="illegible: blotted" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> ſuppoſed Fault, that is, taxing
+the Diſſenters with Schiſm. He ſhould have let us (at
+leaſt of <hi>Mancheſter)</hi> alone; for there the Storm was to
+fall, whatever the Title Page ſays it was in <hi>uſum Sa<g ref="char:EOLunhyphen"/>rum.</hi>
+Nor ſhould he have left his Subject, and Re<g ref="char:EOLhyphen"/>proach'd
+us with Atheiſm, Socinianiſm, Perjury, <hi>&amp;c.</hi>
+What's this to Schiſm? Or was it for the Service of
+the Government, to diſcourage Men from. Submitting
+to it? I obſerve this, becauſe theſe Men are ſo apt
+(like our Dragoons laſt among us) to accuſe every body
+of Jacobitiſm, that ſtands in their way, when as none
+more effectually promote it than they. And if ſome
+ſhall be eſteem'd Perjur'd for the Alteration of their
+former Principles, what ſhall we think of a multitude
+of Diſſenters, who, if they did not ſwear <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unto
+K. <hi>J.</hi> yet ſolemnly promis'd it? Read Father <hi>Alſop</hi>'s
+Speech to the late King, in the Name, and at the
+Head of a Body his Brethren, and you will be forc'd to ſay,
+they are, if not falſe Swearers, yet egregious Lyars, de<g ref="char:EOLhyphen"/>parting
+from their publick and declar'd Proteſtations,
+which I think comes pretty near the Fault, others are (I
+think unjuſtly) accus'd of. But I diſmiſs the <hi>Note-ma<g ref="char:EOLhyphen"/>ker.</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:39246:12"/>
+There remains now the Caſe of Mr. <hi>B.</hi> and Mr. <hi>P.</hi> The
+former's Greatneſs was alledg'd as ſufficient excuſe, why
+he vouchſaf'd to make no Anſwer to his Accuſer; but
+the <hi>Goliah</hi> look'd ſcornfully on little <hi>David,</hi> and made
+no reckoning of him. He had leiſure to uncover the na<g ref="char:EOLhyphen"/>kedneſs
+of the <hi>Fathers,</hi> but none to hide his own; to re<g ref="char:EOLhyphen"/>vile
+them, but to commend himſelf. And for his greater
+Honour to interweave the whole Hiſtory of the Times
+and publick Tranſactions with his own; which (as I take
+it) was too aſſuming and arrogant. Thus his Life ſwell'd
+into a prodigious and intolerable length. 'Tis obſerva<g ref="char:EOLhyphen"/>ble
+that whoever ador'd him and embrac'd his Seutiments,
+with what Laurels he was wont to adorn their Temples
+as well as his own; but if any Man dar'd to gainſay
+him, or refus'd to truckle unto his Dictates, they were
+ſure to be Thunder-ſtruck by this <hi>J. O. M.</hi> For which
+Reaſon the Ancient Fathers Infirmities were ſo impru<g ref="char:EOLhyphen"/>dently
+expos'd to the diſhonour of Chriſtianity. Though
+we owe our Religion under God to their Zeal and Lear<g ref="char:EOLhyphen"/>ning.
+For theſe and the like Reaſons, it was, that ſome
+Men of his own Fraternity have rewarded him, as he
+had ſerved others. Doubtleſs you have ſeen that Pamph<g ref="char:EOLhyphen"/>let,
+<hi>&amp;c.</hi>
+            </p>
+            <p>From the whole you will learn (as alſo by Mr. <hi>O</hi>'s.
+and the Note-makers Writings) what liberty theſe pa<g ref="char:EOLhyphen"/>tient,
+peaceable, mortify'd, and ſanctify'd Men: Theſe
+are the uſual Characters they give one another) take in
+ſpitefully reviling their Adverſaries, though in the main
+of their own Perſwaſion; No wonder then if they treat
+us as barbarouſly. And if you want another example of
+this, I ſend you to <hi>the Confutation of Mr.</hi> Williams, <hi>by Mr.</hi>
+Alſop, and to the <hi>Hiſtory of the <g ref="char:V">Ʋ</g>nion,</hi> where no quarter
+is given to theſe Gentlemen, who (eſpecially Father <hi>Al<g ref="char:EOLhyphen"/>ſop)</hi>
+are (as we ſpeak) <hi>handl'd without Mittens;</hi> But if a
+Church of <hi>England</hi> Man meddles with any of 'em they
+ſeem to be of the Humour of that lewd Souldier, who
+excus'd himſelf thus, that the Commandment is <hi>thou ſhalt
+not,</hi> but not, <hi>I ſhall not</hi>—The Author of the ſaid
+<pb n="24" facs="tcp:39246:13"/>
+Pamphlet may venture to deliver many ſad Truths of Mr.
+<hi>B.</hi> but the Rector muſt not. The ſumm is, and my deſign
+was to note, that Mr. <hi>B</hi>'s. Greatneſs ought not to be his
+Protection; nor did he truly deſerve that Epithet. A
+Man ought not to be commended at adventures. All
+that can be ſaid of him with reſpect to Greatneſs, is, that
+He was a perſon of very good naturall Parts, but of no
+Improvements proportionable to them. Thus much I
+have to ſay on my own behalf for ſpeaking and writing as
+I did, when juſt Ocaſion was offered me.</p>
+            <p>The ſame Motive drew in Mr. <hi>P.</hi> he was a Paſsable
+Man, and that's all that can be ſaid of him truly: but
+to make an Hero of him, and to tell the World he ſhin'd
+among us, <hi>tanquam inter Stellas Luna minores,</hi> to carry his
+Character higher than it really deſerv'd, and for
+want of Materials to gueſs at ſome excellencies, which
+he was ſo far from meriting, that the contrary muſt
+needs be allow'd againſt him, is an Artifice of advancing
+the credit of a Party, which ought not to be endur'd,
+and none but deſining Men will engage themſelves in.
+What I took notice of, was his Marrying without the
+Womans Parents conſent, and producing a <hi>Diploma</hi> or
+Teſtimonial of taking his Degree at Cambridge.</p>
+            <p>Hear then my Evidence. A Gentleman of my Pa<g ref="char:EOLhyphen"/>riſh
+who knew him well, acquainted me with both above
+Twenty years ago, and oft-times ſince, occaſionally in
+Diſcourſe. When therefore I read his Life; I went im<g ref="char:EOLhyphen"/>mediatly
+to the Regiſter of the Claſs, where I found, <q>That
+Mr. <hi>L.</hi> was accus'd, <hi>Aug.</hi> 15. 1650. for having con<g ref="char:EOLhyphen"/>ſummated
+a Marriage between Mr. <hi>P.</hi> and one <hi>S. S.</hi>
+Clandeſtinly and Irregularly, therefore the ſaid Mr. <hi>P.</hi>
+and Mr. <hi>L.</hi> are appointed to appear again at the next
+Meeting. <hi>Septemb. 12. ditto,</hi> Mr. <hi>P.</hi> is appointed to
+bring in a Certificate under the hand of his own, and
+his Wives Parents, teſtifying their conſent to the Mar<g ref="char:EOLhyphen"/>riage,
+that the Claſs (a<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſame time) hath receiv'd
+ſatisfaction, and acquieſceth in the acknowledgment
+<pb n="25" facs="tcp:39246:13" rendition="simple:additions"/>
+of Mr. <hi>P.</hi> and Mr. <hi>L.</hi> concerning their irregular Pro<g ref="char:EOLhyphen"/>ceedings
+in the late Clandeſtine Marriage of Mr. <hi>P.</hi>
+Then <hi>November 14. ditto</hi> Mr. <hi>P.</hi> brought in his Certi<g ref="char:EOLhyphen"/>ficate
+concerning Parent conſent to the Marriage.</q> No
+Man alive laying theſe things together, but would have
+concluded the Marriage was made without the Conſent
+of <hi>S.</hi> S's Parents, eſpecially when the other Report
+prov'd true beyond all Controverſie. As for Mrs. <hi>P.</hi> and
+<hi>R. M</hi>'s Teſtimony to the contrary, there is ſtill one de<g ref="char:EOLhyphen"/>fect
+in them; we are not told that Mr. <hi>P</hi>'s conſented to
+the Marriage before its conſummation, and this is the
+more to be ſuſpected, becauſe the Marriage was conſum<g ref="char:EOLhyphen"/>mated
+<hi>Clandeſtinely</hi> and <hi>Irregularly,</hi> under an Hedge in
+an Ale-houſe, or without Banns asked, I know not which,
+but I am ſure not by an Ordain'd Miniſter, contrary to
+the Law of the Land. But why all this, if their Pa<g ref="char:EOLhyphen"/>rents
+had conſented before-hand? Beſides, it was Two
+Months or ever Mr. <hi>P.</hi> produc'd a Certificate of Parents
+conſent, which makes it probable <hi>his</hi> Parents conſented
+not before the Marriage, but were drawn to it with dif<g ref="char:EOLhyphen"/>ficulty,
+when there was no other remedy. Finally Mr.
+<hi>P.</hi> acknowledg'd himſelf guilty of ſome Irregularity or
+other, which is ſufficient to the general Deſign of my
+Argument. However in the next place that Mr. <hi>P.</hi> took
+no Degree in the <hi>
+                  <g ref="char:V">Ʋ</g>.</hi> of <hi>C.</hi> proves true you ſee beyond
+any Contradiction or Apology offer'd to the contrary.
+And if my Relator was in the right in one Story, why
+ſhould I queſtion the other? I avoid here ſpeaking open<g ref="char:EOLhyphen"/>ly
+or further aggravating Mr. <hi>P</hi>'s fault; for I will not
+dwell upon ſo foul a Miſcarriage, though one might take
+the advantage here to expoſe both the guilty Party and
+his Vindicator too. But I have utterly reſolv'd againſt
+it, and ſo diſmiſs the Matter of Fact as now taken <hi>pro
+confeſſo.</hi>
+            </p>
+            <p>Here then you have an Inſtance of Mr. <hi>O</hi>'s dealing
+with Arguments by halves, which fault he falls into al<g ref="char:EOLhyphen"/>moſt
+in every Page, and in ſome Pages more than once;
+But we muſt bear with him in this, his Deſign being (as
+<pb n="26" facs="tcp:39246:14"/>
+to me ſeems) only to Write a Satyr and deride the Re<g ref="char:EOLhyphen"/>ctor,
+let the Points in Queſtion ſhift for themſelves as
+they can. Much good may it do him. I am at his Ser<g ref="char:EOLhyphen"/>vice,
+and when he has revil'd me as much as he's able,
+I am perſwaded he'll never make the World believe; I
+am either Fool, or Knave, or Impudent, or a <hi>Blaſphe<g ref="char:EOLhyphen"/>mer,</hi>
+the Diſſenters themſelves (that know me) being
+Judges: For to them I am content to ſurrender the Intereſts
+of my Reputation. I will only ſpeak of one Paſſage in the
+<hi>Vindication</hi> and ſo conclude. He acquaints his Reader p. 32.
+that <hi>I give him the Character of a great Rogue.</hi> Really, if I
+did ſo, I were no manner of way to be excuſed.
+What I ſaid in <hi>R. R.</hi> p. 58. Was, <hi>That the Diſſenters have
+themſelves own'd,</hi>
+               <note place="margin">The Corru<g ref="char:EOLhyphen"/>pting St. <hi>Chr.</hi>
+               </note> 
+               <hi>that if Mr.</hi> O. <hi>is indeed guilty of the
+Crime laid againſt him, he is a great Rogue,</hi> and in the
+Margin I declared the Expreſſion to be none of mine.
+Now, Sir, I am content to be the Rogue my ſelf, if I
+am guilty of calling him ſo. But if without any cou<g ref="char:EOLhyphen"/>lor
+he has in this thing charged me falſly, and robb'd
+me of my Reputation, among all thoſe that ſhall read
+his Vindication, and not conſult my <hi>R. R.</hi> which I am
+perſwaded one Reader of 100 will not do, then I leave
+it to any Man's Judgment, whether he has not done
+what in him lies to deſerve that Character which I ne<g ref="char:EOLhyphen"/>ver
+did, nor will give him.</p>
+            <p>Finally, I take leave to tell you, (I do it with
+ſome Confidence) that there is ſcarce one Para<g ref="char:EOLhyphen"/>graph
+(and they are numerous) but I could ea<g ref="char:EOLhyphen"/>ſily
+detect in it ſome material Defect or other,
+and effectually anſwer it; but to what purpoſe?
+When ſhall we have an end? It would have
+been hard to undertake ſo particular a Reply,
+without falling into hard words, which is the
+thing I have carefully declin'd. I am not ſenſi<g ref="char:EOLhyphen"/>ble
+<pb n="27" facs="tcp:39246:14"/>
+that I have given him any ill Language, or
+Cauſe of Exaſperation, except haply it be in this
+one thing, that I refuſe to ſcold with him.</p>
+            <p>I hope both he and you will forgive me this wrong.</p>
+            <closer>
+               <signed>And remain yours,
+<hi>T. G.</hi>
+               </signed>
+               <date>April 8. 1699.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
